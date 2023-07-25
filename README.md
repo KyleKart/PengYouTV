@@ -14,7 +14,8 @@ GitHub will likely tell you to make a fork to do this step. Make sure to create 
 
 Create a new folder with your **Scratch** username. You can do this by typing the username as the file name, and then typing a `/`. Then type the actual file name, followed by `.js`.
 
-Now, paste your extension's code into the file.
+Now, enter your video title into the file.
+In the next line, you will paste a link to your YouTube video.
 You should now be able to `Commit changes` or `Create a pull request`, it'll likely be a green button.
 
 4. Create the pull request.
