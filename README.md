@@ -2,9 +2,10 @@
 
 ## Uploading a video.
 
-1. Have a video that exists. You'll want this video uploaded to [YouTube](https://www.youtube.com) as a [Public or Unlisted video](https://support.google.com/youtube/answer/157177?hl=en&co=GENIE.Platform%3DDesktop).
+1. Have a video that exists.
+You'll want this video uploaded to [YouTube](https://www.youtube.com) as a [Public or Unlisted video](https://support.google.com/youtube/answer/157177?hl=en&co=GENIE.Platform%3DDesktop).
 
-2. Add your extension in the videos folder.
+2. Add your video to the videos folder.
 
 Open [this link](https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/tree/main/static/extensions) in a new tab to open the folder.
 
