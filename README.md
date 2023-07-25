@@ -2,26 +2,14 @@
 
 ## Uploading a video.
 
-1. Have a video which exists. You'll want this video uploaded to [YouTube](https://www.youtube.com) as a Public or Unlisted video.
+1. Have a video that exists. You'll want this video uploaded to [YouTube](https://www.youtube.com) as a [Public or Unlisted video](https://support.google.com/youtube/answer/157177?hl=en&co=GENIE.Platform%3DDesktop).
 
-#### Important notes:
-- Your extension should not already exist on the gallery. Please check the
-[Pull Requests](https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/pulls)
-and [Gallery page](https://penguinmod-extensions-gallery.vercel.app/) to confirm.
-- Your extension should be created for a specific purpose. An extension with random blocks someone might need will likely not get accepted if the blocks are not in a certain theme, like math or rendering.
-- Your extension should be easily explainable in 1-2 sentences or a single picture. This is what will determine whether you can be on the gallery or not.
-- Your extension should be MIT licensed (not compatible with the MIT license, should be the actual MIT license. This may change in the future.)
-
-### Step 2.
-Create info for your extension, like a description and a banner / thumbnail.
+2. Create info for your extension, like a description and a banner / thumbnail.
 The banner / thumbnail is not required, but it will be a solid color if not provided.
 
 Your banner / thumbnail must also be MIT licensed (basically just make it yourself and the image should be usable anywhere)
 
-### Step 3.
-Add your extension in the `static/extensions` folder.
-
-Open [this link](https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/tree/main/static/extensions) in a new tab to open the folder.
+3. Open [this link](https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/tree/main/static/extensions) in a new tab to open the folder.
 
 Click `Add File` at the top and click `Create new file`.
 
